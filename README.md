@@ -12,4 +12,6 @@ An Arduino Micro-based custom game controller that emulates a keyboard and mouse
 
 ## **Software & Libraries**
 This project utilizes the following **Arduino libraries**:
-
+```cpp
+#include <Keyboard.h>
+#include <Mouse.h>
