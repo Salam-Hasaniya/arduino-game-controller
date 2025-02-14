@@ -1,6 +1,7 @@
 # **Arduino-Based Custom Game Controller**
 An Arduino Micro-based custom game controller that emulates a keyboard and mouse, ensuring compatibility with all computer games.
-![1Eknh0-RK4wRTbGUKDDLZt01VD7hhKkBJJKWWSqLp5SA](https://github.com/user-attachments/assets/8b53ea09-8106-48a9-b261-e5b97261dbe3)
+![1-CYUhTNCs9H_QXeLHzZnNYe7E7siIsXy1vTv9IKDueQ](https://github.com/user-attachments/assets/7b52ac8c-48e1-455e-bd13-c4e6012f4323)
+
 
 ## **Hardware Components**
 - **Arduino Micro** – Microcontroller platform  
