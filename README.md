@@ -15,7 +15,9 @@ This project utilizes the following **Arduino libraries**:
 #include <Keyboard.h>
 #include <Mouse.h>
 ```
-
+- **Keyboard.h** – Enables button mapping to keyboard keys
+- **Mouse.h** – Allows joystick movement to control the mouse cursor
+  
 ## **Button Mapping**
 | Button | Assigned Function   |
 |--------|--------------------|
