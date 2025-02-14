@@ -31,3 +31,4 @@ This project utilizes the following **Arduino libraries**:
 | Right  | 'L' (Move Right)  |
 | R2     | Right Mouse Click |
 | L2     | Left Mouse Click  |
+![Uploading 1Eknh0-RK4wRTbGUKDDLZt01VD7hhKkBJJKWWSqLp5SA.png…]()
