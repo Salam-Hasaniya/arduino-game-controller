@@ -1,5 +1,6 @@
 # **Arduino-Based Custom Game Controller**
 An Arduino Micro-based custom game controller that emulates a keyboard and mouse, ensuring compatibility with all computer games.
+![1Eknh0-RK4wRTbGUKDDLZt01VD7hhKkBJJKWWSqLp5SA](https://github.com/user-attachments/assets/8b53ea09-8106-48a9-b261-e5b97261dbe3)
 
 ## **Hardware Components**
 - **Arduino Micro** – Microcontroller platform  
@@ -31,4 +32,4 @@ This project utilizes the following **Arduino libraries**:
 | Right  | 'L' (Move Right)  |
 | R2     | Right Mouse Click |
 | L2     | Left Mouse Click  |
-![Uploading 1Eknh0-RK4wRTbGUKDDLZt01VD7hhKkBJJKWWSqLp5SA.png…]()
+
